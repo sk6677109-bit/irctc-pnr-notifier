@@ -1,24 +1,22 @@
 {
   "pnrs": {
-    "ben-mas": {
+    "my-trip": {
       "chart_prepared": false,
-      "checked_at": "2026-09-25T07:01:33.641461+00:00",
+      "checked_at": "2026-09-25T20:26:37.793049+00:00",
       "confirmed": false,
       "current_statuses": [
-        "GNWL  5",
-        "GNWL  6",
-        "GNWL  7"
+        "GNWL  109",
+        "GNWL  110"
       ],
-      "pnr": "4949608635",
-      "pnr_id": "ben-mas",
+      "pnr": "8554125624",
+      "pnr_id": "my-trip",
       "provider": "easemytrip",
-      "raw_summary": "Train 12658 SBC MAS SF MAIL | Chart: Chart Not Prepared | Current: GNWL  5, GNWL  6, GNWL  7",
+      "raw_summary": "Train 12141 PATLIPUTRA EXP | Chart: Chart Not Prepared | Current: GNWL  109, GNWL  110",
       "waiting_numbers": [
-        5,
-        6,
-        7
+        109,
+        110
       ]
     }
   },
-  "updated_at": "2026-09-25T07:01:33.641669+00:00"
+  "updated_at": "2026-09-25T20:26:37.793189+00:00"
 }
