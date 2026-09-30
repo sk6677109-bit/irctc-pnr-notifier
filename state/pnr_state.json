@@ -2,7 +2,7 @@
   "pnrs": {
     "my-trip": {
       "chart_prepared": false,
-      "checked_at": "2026-09-29T02:04:47.568596+00:00",
+      "checked_at": "2026-09-30T02:05:28.963177+00:00",
       "confirmed": false,
       "current_statuses": [
         "GNWL  109",
@@ -18,5 +18,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-29T02:04:47.568783+00:00"
+  "updated_at": "2026-09-30T02:05:28.963426+00:00"
 }
